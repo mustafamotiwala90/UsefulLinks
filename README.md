@@ -14,3 +14,5 @@ Retrofit in app : https://www.journaldev.com/13639/retrofit-android-example-tuto
 Simple MVP example : http://www.vogella.com/tutorials/AndroidArchitecture/article.html
 
 https://github.com/MindorksOpenSource/android-mvp-architecture/tree/master/app/src/main/java/com/mindorks/framework/mvp/ui/base
+
+RxJava + Retrofit example : https://android.jlelse.eu/rest-api-on-android-made-simple-or-how-i-learned-to-stop-worrying-and-love-the-rxjava-b3c2c949cad4
