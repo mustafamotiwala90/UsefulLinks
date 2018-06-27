@@ -17,5 +17,6 @@ https://github.com/MindorksOpenSource/android-mvp-architecture/tree/master/app/s
 
 RxJava + Retrofit example : https://android.jlelse.eu/rest-api-on-android-made-simple-or-how-i-learned-to-stop-worrying-and-love-the-rxjava-b3c2c949cad4
 
-
 https://www.androidhive.info/RxJava/android-rxjava-networking-with-retrofit-gson-notes-app/
+
+https://blog.mindorks.com/understanding-types-of-observables-in-rxjava-6c3a2d0819c8
